@@ -1,0 +1,52 @@
+Partlist exported from C:/Users/Erik/Documents/GitHub/4HP_555_EG/4HP_555_eg.sch at 4/30/2017 8:28 AM
+
+Part Value        Device                 Package               Description     PROD_ID     VALUE   
+10R  22K          RESISTOR0603-RES       0603-RES              Resistor                            
+A    10KA         POTS9MM_MOUNTED_2MMH   9MM_W/MOUNTS-2MMHOLES                                     
+C1   10uF         0501                   050_020_1             0.22 - 100uF                        
+C2   10uF         0501                   050_020_1             0.22 - 100uF                        
+C3   10nF         CAP0603-CAP            0603-CAP              Capacitor                           
+C4   100nF        CAP0603-CAP            0603-CAP              Capacitor                           
+C5   100nF        CAP0603-CAP            0603-CAP              Capacitor                           
+C6   10nF         CAP0603-CAP            0603-CAP              Capacitor                           
+C7   2.2uF        0501                   050_020_1             0.22 - 100uF                        
+C8   100nF        CAP0603-CAP            0603-CAP              Capacitor                           
+C9   100nF        CAP0603-CAP            0603-CAP              Capacitor                           
+D    10KA         POTS9MM_MOUNTED_2MMH   9MM_W/MOUNTS-2MMHOLES                                     
+D1   BAT20J       DIODESOD123            SOD-123               Diode                               
+D2   BAT20J       DIODESOD123            SOD-123               Diode                               
+D3                DIODESOD               SOD-323               Diode           DIO-09646           
+D4                DIODESOD               SOD-323               Diode           DIO-09646           
+D5                DIODESOD               SOD-323               Diode           DIO-09646           
+D6                DIODESOD               SOD-323               Diode           DIO-09646           
+ENV  THONKICONN   THONKICONN             THONKICONN                                                
+GATE THONKICONN   THONKICONN             THONKICONN                                                
+IC1  IC_555-SOIC8 IC_555-SOIC8           SOIC-8                Classic 555 IC                      
+IC2               DUALSMD                SO08                  OP AMP                              
+INV  THONKICONN   THONKICONN             THONKICONN                                                
+LED               LED5MM                 LED_5MM               LED (Generic)                       
+Q1   MMBT5088     TRANSISTOR_NPNMMBT5088 SOT23                 Generic NPN BJT TRANS-11160 MMBT5088
+Q2   MMBT5088     TRANSISTOR_NPNMMBT5088 SOT23                 Generic NPN BJT TRANS-11160 MMBT5088
+Q3   MMBT5088     TRANSISTOR_NPNMMBT5088 SOT23                 Generic NPN BJT TRANS-11160 MMBT5088
+Q4   MMBT5088     TRANSISTOR_NPNMMBT5088 SOT23                 Generic NPN BJT TRANS-11160 MMBT5088
+R    10KA         POTS9MM_MOUNTED_2MMH   9MM_W/MOUNTS-2MMHOLES                                     
+R1   100R         RESISTOR0603-RES       0603-RES              Resistor                            
+R2   100R         RESISTOR0603-RES       0603-RES              Resistor                            
+R3   100R         RESISTOR0603-RES       0603-RES              Resistor                            
+R4   1K           RESISTOR0603-RES       0603-RES              Resistor                            
+R5   10K          RESISTOR0603-RES       0603-RES              Resistor                            
+R6   1K           RESISTOR0603-RES       0603-RES              Resistor                            
+R7   1K           RESISTOR0603-RES       0603-RES              Resistor                            
+R8   100K         RESISTOR0603-RES       0603-RES              Resistor                            
+R9   100K         RESISTOR0603-RES       0603-RES              Resistor                            
+R10  1M           RESISTOR0603-RES       0603-RES              Resistor                            
+R11  1M           RESISTOR0603-RES       0603-RES              Resistor                            
+R12  22K          RESISTOR0603-RES       0603-RES              Resistor                            
+R13  22K          RESISTOR0603-RES       0603-RES              Resistor                            
+R14  22K          RESISTOR0603-RES       0603-RES              Resistor                            
+R15  10           RESISTOR0603-RES       0603-RES              Resistor                            
+R16  22K          RESISTOR0603-RES       0603-RES              Resistor                            
+R17  4.7K         RESISTOR0603-RES       0603-RES              Resistor                            
+R18  10R          RESISTOR0603-RES       0603-RES              Resistor                            
+S    10KB         POTS9MM_MOUNTED_2MMH   9MM_W/MOUNTS-2MMHOLES                                     
+SV1               EURO_POWER_HEADER      EURO_POWER_HEADER     Power Header                        

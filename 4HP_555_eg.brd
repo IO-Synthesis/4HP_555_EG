@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="8.1.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -727,8 +727,8 @@ Please make sure your boards conform to these design rules.</description>
 <element name="C5" library="SparkFun-Capacitors" package="0603-CAP" value="100nF" x="16.8275" y="18.415" rot="R180"/>
 <element name="R10" library="SparkFun-Passives" package="0603-RES" value="1M" x="16.8275" y="10.795"/>
 <element name="R11" library="SparkFun-Passives" package="0603-RES" value="1M" x="16.8275" y="13.97" rot="R180"/>
-<element name="C1" library="capacitors-elec" package="050_020_1" value="" x="68.58" y="4.445" rot="R90"/>
-<element name="C2" library="capacitors-elec" package="050_020_1" value="" x="68.58" y="16.1925" rot="R90"/>
+<element name="C1" library="capacitors-elec" package="050_020_1" value="10uF" x="68.58" y="4.445" rot="R90"/>
+<element name="C2" library="capacitors-elec" package="050_020_1" value="10uF" x="68.58" y="16.1925" rot="R90"/>
 <element name="R12" library="SparkFun-Passives" package="0603-RES" value="22K" x="20.955" y="12.7"/>
 <element name="R13" library="SparkFun-Passives" package="0603-RES" value="22K" x="24.13" y="12.7" rot="R180"/>
 <element name="R14" library="SparkFun-Passives" package="0603-RES" value="22K" x="29.21" y="12.7" rot="R180"/>

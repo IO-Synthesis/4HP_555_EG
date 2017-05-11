@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.7.0">
+<eagle version="8.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -3564,7 +3564,7 @@
 <text x="10.16" y="99.06" size="2.54" layer="21" font="vector" ratio="15" align="center">D</text>
 <text x="10.16" y="78.74" size="2.54" layer="21" font="vector" ratio="15" align="center">S</text>
 <text x="10.16" y="58.42" size="2.54" layer="21" font="vector" ratio="15" align="center">R</text>
-<text x="5.08" y="24.13" size="1.4224" layer="21" font="vector" ratio="15" align="center">GATE</text>
+<text x="5.08" y="24.13" size="1.778" layer="21" font="vector" ratio="15" align="center">GATE</text>
 <wire x1="13.335" y1="10.16" x2="14.605" y2="11.43" width="0.4064" layer="21"/>
 <wire x1="14.605" y1="11.43" x2="15.24" y2="10.795" width="0.4064" layer="21"/>
 <wire x1="15.24" y1="10.795" x2="16.51" y2="10.795" width="0.4064" layer="21"/>

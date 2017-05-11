@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="8.1.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -3288,8 +3288,8 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <part name="R10" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1M"/>
 <part name="R11" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1M"/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
-<part name="C1" library="capacitors-elec" deviceset="050" device="1"/>
-<part name="C2" library="capacitors-elec" deviceset="050" device="1"/>
+<part name="C1" library="capacitors-elec" deviceset="050" device="1" value="10uF"/>
+<part name="C2" library="capacitors-elec" deviceset="050" device="1" value="10uF"/>
 <part name="R12" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="22K"/>
 <part name="R13" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="22K"/>
 <part name="R14" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="22K"/>
